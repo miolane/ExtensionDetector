@@ -1,6 +1,6 @@
-URL = "/";
-
+var extName = document.title;
 window.onload = function() {
+    var URL = "/detect/" + extName;
     getRawHTML(URL, function (origin) {
         var changes = compare(origin, document);
         console.log(changes);
@@ -116,7 +116,8 @@ function compare(origin, changed)
 function pushData(url, data)
 {
     data = JSON.stringify(data);
-    $.post(url, {"data": data}).done(function (res) {
+
+    $.post(url, {"extensionName": extName, "data": data}).done(function (res) {
         console.log(res);
     })
 }
