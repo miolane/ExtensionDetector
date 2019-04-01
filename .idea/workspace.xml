@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b81355e1-adcc-4ca4-9b02-fc9e838850bf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/public/javascripts/xh.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/public/javascripts/xh.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/routes/push.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/routes/push.js" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1124">
+              <caret line="2" column="27" lean-forward="true" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/routes/push.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="504">
+              <caret line="20" column="7" lean-forward="true" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/public/javascripts/xh.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="208">
+              <caret line="116" column="1" selection-start-line="116" selection-start-column="1" selection-end-line="116" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/routes/detector.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/extList.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/routes/users.js" />
+        <option value="$PROJECT_DIR$/views/layout.pug" />
+        <option value="$PROJECT_DIR$/views/index.pug" />
+        <option value="$PROJECT_DIR$/app.js" />
+        <option value="$PROJECT_DIR$/public/javascripts/xh.js" />
+        <option value="$PROJECT_DIR$/routes/push.js" />
+        <option value="$PROJECT_DIR$/app/public/javascripts/xh.js" />
+        <option value="$PROJECT_DIR$/app/routes/push.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1273" />
+    <option name="width" value="1294" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="ExtensionDetector" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="ExtensionDetector" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="ExtensionDetector" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="diffs" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="10.15.3" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="app\bin\www" type="NodeJSConfigurationType" path-to-js-file="app/bin/www" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b81355e1-adcc-4ca4-9b02-fc9e838850bf" name="Default Changelist" comment="" />
+      <created>1553183384775</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553183384775</updated>
+      <workItem from="1553183389988" duration="5038000" />
+      <workItem from="1553950384623" duration="8322000" />
+      <workItem from="1553959591861" duration="1000" />
+      <workItem from="1553998274285" duration="3135000" />
+      <workItem from="1554044009103" duration="2544000" />
+      <workItem from="1554047126154" duration="450000" />
+      <workItem from="1554124986232" duration="6027000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="9126000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="2576" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24980299" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49960598" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49921197" weight="0.329718" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.500394" side_tool="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24980299" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.3997833" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/public/javascripts/xh.js" />
+    <entry file="file://$PROJECT_DIR$/views/layout.pug" />
+    <entry file="file://$PROJECT_DIR$/views/index.pug" />
+    <entry file="file://$PROJECT_DIR$/routes/push.js" />
+    <entry file="file://$PROJECT_DIR$/routes/index.js" />
+    <entry file="file://$PROJECT_DIR$/app.js" />
+    <entry file="uml://JavaScript-modules-diagram/E:/GitHub/ExtensionDetector/app">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$/app</OriginalElement>
+          <nodes>
+            <node x="" y="">$PROJECT_DIR$/app/app.js#cookieParser#108;E:/GitHub/ExtensionDetector/app/app.js#createError#4;E:/GitHub/ExtensionDetector/app/app.js#express#46;E:/GitHub/ExtensionDetector/app/app.js#indexRouter#186;E:/GitHub/ExtensionDetector/app/app.js#logger#153;E:/GitHub/ExtensionDetector/app/app.js#path#80;E:/GitHub/ExtensionDetector/app/app.js#pushRouter#231;</node>
+            <node x="" y="">$PROJECT_DIR$/app/node_modules/express/lib/application.js#Router#274;E:/GitHub/ExtensionDetector/app/node_modules/express/lib/application.js#View#485;E:/GitHub/ExtensionDetector/app/node_modules/express/lib/application.js#compileETag#557;E:/GitHub/ExtensionDetector/app/node_modules/express/lib/application.js#compileQueryParser#614;E:/GitHub/ExtensionDetector/app/node_modules/express/lib/application.js#compileTrust#672;E:/GitHub/ExtensionDetector/app/node_modules/express/lib/application.js#debug#432;E:/GitHub/ExtensionDetector/app/node_modules/express/lib/application.js#deprecate#709;E:/GitHub/ExtensionDetector/app/node_modules/express/lib/application.js#finalhandler#230;E:/GitHub/ExtensionDetector/app/node_modules/express/lib/application.js#flatten#753;E:/GitHub/ExtensionDetector/app/node_modules/express/lib/application.js#http#515;E:/GitHub/ExtensionDetector/app/node_modules/express/lib/application.js#merge#793;E:/GitHub/ExtensionDetector/app/node_modules/express/lib/application.js#methods#308;E:/GitHub/ExtensionDetector/app/node_modules/express/lib/application.js#middleware#342;E:/GitHub/ExtensionDetector/app/node_modules/express/lib/application.js#query#389;E:/GitHub/ExtensionDetector/app/node_modules/express/lib/application.js#resolve#839;E:/GitHub/ExtensionDetector/app/node_modules/express/lib/application.js#setPrototypeOf#868;</node>
+            <node x="" y="">$PROJECT_DIR$/app/node_modules/array-flatten/array-flatten.js</node>
+            <node x="" y="">$PROJECT_DIR$/app/node_modules/pug/examples/attributes.js#pug#38;E:/GitHub/ExtensionDetector/app/node_modules/pug/examples/attributes.js#str#110;</node>
+            <node x="" y="">$PROJECT_DIR$/app/node_modules/pug/support/benchmark.js#pug#71;E:/GitHub/ExtensionDetector/app/node_modules/pug/support/benchmark.js#uubench#38;</node>
+            <node x="" y="">$PROJECT_DIR$/app/node_modules/debug/src/browser.js#debug.js#130;</node>
+            <node x="" y="">$PROJECT_DIR$/app/node_modules/pug/examples/code.js#pug#38;E:/GitHub/ExtensionDetector/app/node_modules/pug/examples/code.js#str#104;</node>
+            <node x="" y="">$PROJECT_DIR$/app/node_modules/debug/src/debug.js#index.js#354;</node>
+            <node x="" y="">$PROJECT_DIR$/app/node_modules/pug/examples/dynamicscript.js#pug#38;</node>
+            <node x="" y="">$PROJECT_DIR$/app/node_modules/pug/examples/each.js#pug#38;E:/GitHub/ExtensionDetector/app/node_modules/pug/examples/each.js#str#104;</node>
+            <node x="" y="">$PROJECT_DIR$/app/node_modules/express/lib/express.js#EventEmitter#273;E:/GitHub/ExtensionDetector/app/node_modules/express/lib/express.js#Route#389;E:/GitHub/ExtensionDetector/app/node_modules/express/lib/express.js#Router#428;E:/GitHub/ExtensionDetector/app/node_modules/express/lib/express.js#bodyParser#218;E:/GitHub/ExtensionDetector/app/node_modules/express/lib/express.js#index.js#1584;E:/GitHub/ExtensionDetector/app/node_modules/express/lib/express.js#mixin#309;E:/GitHub/ExtensionDetector/app/node_modules/express/lib/express.js#proto#351;E:/GitHub/ExtensionDetector/app/node_modules/express/lib/express.js#query.js#1536;E:/GitHub/ExtensionDetector/app/node_modules/express/lib/express.js#req#462;E:/GitHub/ExtensionDetector/app/node_modules/express/lib/express.js#res#494;</node>
+            <node x="" y="">$PROJECT_DIR$/app/node_modules/pug/examples/extend.js#pug#38;E:/GitHub/ExtensionDetector/app/node_modules/pug/examples/extend.js#str#106;</node>
+            <node x="" y="">$PROJECT_DIR$/app/node_modules/pug/examples/form.js#pug#38;E:/GitHub/ExtensionDetector/app/node_modules/pug/examples/form.js#str#104;</node>
+            <node x="" y="">$PROJECT_DIR$/app/node_modules/pug/examples/includes.js#pug#38;E:/GitHub/ExtensionDetector/app/node_modules/pug/examples/includes.js#str#108;</node>
+            <node x="" y="">$PROJECT_DIR$/app/node_modules/@types/babylon/index.d.ts#Expression#349;E:/GitHub/ExtensionDetector/app/node_modules/@types/babylon/index.d.ts#File#343;</node>
+            <node x="" y="">$PROJECT_DIR$/app/node_modules/@types/babel-types/index.d.ts#Expression#29804;E:/GitHub/ExtensionDetector/app/node_modules/@types/babel-types/index.d.ts#File#3173;</node>
+            <node x="" y="">$PROJECT_DIR$/app/node_modules/setprototypeof/index.d.ts</node>
+            <node x="" y="">Buffer;</node>
+            <node x="" y="">$PROJECT_DIR$/app/node_modules/basic-auth/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/app/node_modules/serve-static/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/app/node_modules/escape-html/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/app/node_modules/http-errors/index.js#deprecate#185;E:/GitHub/ExtensionDetector/app/node_modules/http-errors/index.js#inherits#314;E:/GitHub/ExtensionDetector/app/node_modules/http-errors/index.js#setPrototypeOf#232;E:/GitHub/ExtensionDetector/app/node_modules/http-errors/index.js#statuses#279;</node>
+            <node x="" y="">$PROJECT_DIR$/app/node_modules/parseurl/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/app/node_modules/express/index.js#express.js#198;</node>
+            <node x="" y="">$PROJECT_DIR$/app/node_modules/on-finished/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/app/node_modules/pug/lib/index.js#filters#343;E:/GitHub/ExtensionDetector/app/node_modules/pug/lib/index.js#fs#141;E:/GitHub/ExtensionDetector/app/node_modules/pug/lib/index.js#generateCode#415;E:/GitHub/ExtensionDetector/app/node_modules/pug/lib/index.js#lex#193;E:/GitHub/ExtensionDetector/app/node_modules/pug/lib/index.js#link#381;E:/GitHub/ExtensionDetector/app/node_modules/pug/lib/index.js#load#311;E:/GitHub/ExtensionDetector/app/node_modules/pug/lib/index.js#parse#276;E:/GitHub/ExtensionDetector/app/node_modules/pug/lib/index.js#path#165;E:/GitHub/ExtensionDetector/app/node_modules/pug/lib/index.js#runtime#459;E:/GitHub/ExtensionDetector/app/node_modules/pug/lib/index.js#runtimeWrap#497;E:/GitHub/ExtensionDetector/app/node_modules/pug/lib/index.js#stripComments#225;</node>
+            <node x="" y="">$PROJECT_DIR$/app/node_modules/encodeurl/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/app/node_modules/pug-load/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/app/node_modules/pug-filters/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/app/node_modules/debug/src/index.js#browser.js#186;E:/GitHub/ExtensionDetector/app/node_modules/debug/src/index.js#node.js#239;</node>
+            <node x="" y="">$PROJECT_DIR$/app/node_modules/express/lib/router/index.js#Layer#262;E:/GitHub/ExtensionDetector/app/node_modules/express/lib/router/index.js#Route#230;E:/GitHub/ExtensionDetector/app/node_modules/express/lib/router/index.js#debug#364;E:/GitHub/ExtensionDetector/app/node_modules/express/lib/router/index.js#deprecate#412;E:/GitHub/ExtensionDetector/app/node_modules/express/lib/router/index.js#flatten#456;E:/GitHub/ExtensionDetector/app/node_modules/express/lib/router/index.js#methods#294;E:/GitHub/ExtensionDetector/app/node_modules/express/lib/router/index.js#mixin#328;E:/GitHub/ExtensionDetector/app/node_modules/express/lib/router/index.js#parseUrl#496;E:/GitHub/ExtensionDetector/app/node_modules/express/lib/router/index.js#setPrototypeOf#532;</node>
+            <node x="" y="">$PROJECT_DIR$/app/node_modules/depd/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/app/node_modules/fresh/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/app/node_modules/statuses/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/app/node_modules/methods/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/app/node_modules/etag/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/app/node_modules/pug-lexer/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/app/node_modules/cookie/index.js</node>
+            <node x="" y="">mime;</node>
+            <node x="" y="">$PROJECT_DIR$/app/node_modules/path-to-regexp/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/app/node_modules/pug-runtime/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/app/node_modules/vary/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/app/node_modules/on-headers/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/app/node_modules/cookie-parser/index.js#cookie#189;E:/GitHub/ExtensionDetector/app/node_modules/cookie-parser/index.js#signature#220;</node>
+            <node x="" y="">sign;</node>
+            <node x="" y="">$PROJECT_DIR$/app/node_modules/pug-parser/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/app/node_modules/proxy-addr/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/app/node_modules/utils-merge/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/app/node_modules/pug-linker/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/app/node_modules/merge-descriptors/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/app/node_modules/morgan/index.js#auth#411;E:/GitHub/ExtensionDetector/app/node_modules/morgan/index.js#debug#444;E:/GitHub/ExtensionDetector/app/node_modules/morgan/index.js#deprecate#483;E:/GitHub/ExtensionDetector/app/node_modules/morgan/index.js#onFinished#525;E:/GitHub/ExtensionDetector/app/node_modules/morgan/index.js#onHeaders#565;</node>
+            <node x="" y="">$PROJECT_DIR$/app/node_modules/pug-strip-comments/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/app/node_modules/content-type/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/app/node_modules/accepts/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/app/node_modules/finalhandler/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/app/node_modules/type-is/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/app/node_modules/ms/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/app/node_modules/content-disposition/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/app/node_modules/pug-code-gen/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/app/routes/index.js#express#4;</node>
+            <node x="" y="">$PROJECT_DIR$/app/node_modules/range-parser/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/app/node_modules/qs/lib/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/app/node_modules/body-parser/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/app/node_modules/inherits/inherits.js</node>
+            <node x="" y="">$PROJECT_DIR$/app/node_modules/express/lib/middleware/init.js#setPrototypeOf#230;</node>
+            <node x="" y="">$PROJECT_DIR$/app/node_modules/debug/src/inspector-log.js#nullStream#70;</node>
+            <node x="" y="">$PROJECT_DIR$/app/node_modules/express/lib/router/layer.js#debug#274;E:/GitHub/ExtensionDetector/app/node_modules/express/lib/router/layer.js#pathRegexp#230;</node>
+            <node x="" y="">$PROJECT_DIR$/app/node_modules/pug/examples/layout-debug.js#pug#38;</node>
+            <node x="" y="">$PROJECT_DIR$/app/node_modules/pug/examples/layout.js#pug#38;E:/GitHub/ExtensionDetector/app/node_modules/pug/examples/layout.js#str#106;</node>
+            <node x="" y="">$PROJECT_DIR$/app/node_modules/pug/examples/mixins.js#pug#38;E:/GitHub/ExtensionDetector/app/node_modules/pug/examples/mixins.js#str#106;</node>
+            <node x="" y="">$PROJECT_DIR$/app/node_modules/debug/node.js#node.js#17;</node>
+            <node x="" y="">$PROJECT_DIR$/app/node_modules/debug/src/node.js#debug.js#214;E:/GitHub/ExtensionDetector/app/node_modules/debug/src/node.js#fs#4406;E:/GitHub/ExtensionDetector/app/node_modules/debug/src/node.js#net#4575;E:/GitHub/ExtensionDetector/app/node_modules/debug/src/node.js#tty#37;E:/GitHub/ExtensionDetector/app/node_modules/debug/src/node.js#util#63;</node>
+            <node x="" y="">$PROJECT_DIR$/app/routes/push.js#express#4;</node>
+            <node x="" y="">$PROJECT_DIR$/app/node_modules/express/lib/middleware/query.js#merge#218;E:/GitHub/ExtensionDetector/app/node_modules/express/lib/middleware/query.js#parseUrl#253;E:/GitHub/ExtensionDetector/app/node_modules/express/lib/middleware/query.js#qs#289;</node>
+            <node x="" y="">$PROJECT_DIR$/app/node_modules/pug/register.js#pug#4;</node>
+            <node x="" y="">$PROJECT_DIR$/app/node_modules/express/lib/request.js#accepts#230;E:/GitHub/ExtensionDetector/app/node_modules/express/lib/request.js#deprecate#264;E:/GitHub/ExtensionDetector/app/node_modules/express/lib/request.js#fresh#401;E:/GitHub/ExtensionDetector/app/node_modules/express/lib/request.js#http#373;E:/GitHub/ExtensionDetector/app/node_modules/express/lib/request.js#isIP#315;E:/GitHub/ExtensionDetector/app/node_modules/express/lib/request.js#parse#473;E:/GitHub/ExtensionDetector/app/node_modules/express/lib/request.js#parseRange#431;E:/GitHub/ExtensionDetector/app/node_modules/express/lib/request.js#proxyaddr#506;E:/GitHub/ExtensionDetector/app/node_modules/express/lib/request.js#typeis#340;</node>
+            <node x="" y="">$PROJECT_DIR$/app/node_modules/express/lib/response.js#Buffer#203;E:/GitHub/ExtensionDetector/app/node_modules/express/lib/response.js#contentDisposition#237;E:/GitHub/ExtensionDetector/app/node_modules/express/lib/response.js#cookie#836;E:/GitHub/ExtensionDetector/app/node_modules/express/lib/response.js#deprecate#294;E:/GitHub/ExtensionDetector/app/node_modules/express/lib/response.js#encodeUrl#338;E:/GitHub/ExtensionDetector/app/node_modules/express/lib/response.js#escapeHtml#376;E:/GitHub/ExtensionDetector/app/node_modules/express/lib/response.js#http#417;E:/GitHub/ExtensionDetector/app/node_modules/express/lib/response.js#isAbsolute#458;E:/GitHub/ExtensionDetector/app/node_modules/express/lib/response.js#merge#597;E:/GitHub/ExtensionDetector/app/node_modules/express/lib/response.js#normalizeType#694;E:/GitHub/ExtensionDetector/app/node_modules/express/lib/response.js#normalizeTypes#749;E:/GitHub/ExtensionDetector/app/node_modules/express/lib/response.js#onFinished#493;E:/GitHub/ExtensionDetector/app/node_modules/express/lib/response.js#path#534;E:/GitHub/ExtensionDetector/app/node_modules/express/lib/response.js#send#868;E:/GitHub/ExtensionDetector/app/node_modules/express/lib/response.js#setCharset#801;E:/GitHub/ExtensionDetector/app/node_modules/express/lib/response.js#sign#640;E:/GitHub/ExtensionDetector/app/node_modules/express/lib/response.js#statuses#562;E:/GitHub/ExtensionDetector/app/node_modules/express/lib/response.js#vary#974;</node>
+            <node x="" y="">$PROJECT_DIR$/app/node_modules/express/lib/router/route.js#Layer#324;E:/GitHub/ExtensionDetector/app/node_modules/express/lib/router/route.js#debug#230;E:/GitHub/ExtensionDetector/app/node_modules/express/lib/router/route.js#flatten#284;E:/GitHub/ExtensionDetector/app/node_modules/express/lib/router/route.js#methods#356;</node>
+            <node x="" y="">$PROJECT_DIR$/app/node_modules/pug/examples/rss.js#pug#38;E:/GitHub/ExtensionDetector/app/node_modules/pug/examples/rss.js#str#103;</node>
+            <node x="" y="">$PROJECT_DIR$/app/node_modules/pug/examples/text.js#pug#38;E:/GitHub/ExtensionDetector/app/node_modules/pug/examples/text.js#str#104;</node>
+            <node x="" y="">$PROJECT_DIR$/app/node_modules/express/lib/utils.js#Buffer#207;E:/GitHub/ExtensionDetector/app/node_modules/express/lib/utils.js#compileETag#3224;E:/GitHub/ExtensionDetector/app/node_modules/express/lib/utils.js#compileQueryParser#3774;E:/GitHub/ExtensionDetector/app/node_modules/express/lib/utils.js#compileTrust#4424;E:/GitHub/ExtensionDetector/app/node_modules/express/lib/utils.js#contentDisposition#241;E:/GitHub/ExtensionDetector/app/node_modules/express/lib/utils.js#contentType#298;E:/GitHub/ExtensionDetector/app/node_modules/express/lib/utils.js#deprecate#341;E:/GitHub/ExtensionDetector/app/node_modules/express/lib/utils.js#etag#458;E:/GitHub/ExtensionDetector/app/node_modules/express/lib/utils.js#flatten#385;E:/GitHub/ExtensionDetector/app/node_modules/express/lib/utils.js#isAbsolute#1086;E:/GitHub/ExtensionDetector/app/node_modules/express/lib/utils.js#mime#432;E:/GitHub/ExtensionDetector/app/node_modules/express/lib/utils.js#normalizeType#1693;E:/GitHub/ExtensionDetector/app/node_modules/express/lib/utils.js#normalizeTypes#1971;E:/GitHub/ExtensionDetector/app/node_modules/express/lib/utils.js#proxyaddr#486;E:/GitHub/ExtensionDetector/app/node_modules/express/lib/utils.js#qs#525;E:/GitHub/ExtensionDetector/app/node_modules/express/lib/utils.js#querystring#549;E:/GitHub/ExtensionDetector/app/node_modules/express/lib/utils.js#setCharset#5021;</node>
+            <node x="" y="">$PROJECT_DIR$/app/node_modules/express/lib/view.js#debug#230;E:/GitHub/ExtensionDetector/app/node_modules/express/lib/view.js#fn#1551;E:/GitHub/ExtensionDetector/app/node_modules/express/lib/view.js#fs#304;E:/GitHub/ExtensionDetector/app/node_modules/express/lib/view.js#path#276;</node>
+            <node x="" y="">$PROJECT_DIR$/app/node_modules/pug/examples/whitespace.js#pug#38;E:/GitHub/ExtensionDetector/app/node_modules/pug/examples/whitespace.js#str#110;</node>
+            <node x="" y="">$PROJECT_DIR$/app/node_modules/pug-runtime/wrap.js</node>
+            <node x="" y="">$PROJECT_DIR$/app/bin/www#app#58;E:/GitHub/ExtensionDetector/app/bin/www#debug#87;E:/GitHub/ExtensionDetector/app/bin/www#http#135;</node>
+            <node x="" y="">$APPLICATION_CONFIG_DIR$/javascript/nodejs/10.15.3/node-typings/node_modules/@types/node/events.d.ts#EventEmitter#112;</node>
+            <node x="" y="">$APPLICATION_CONFIG_DIR$/javascript/nodejs/10.15.3/node-typings/node_modules/@types/node/fs.d.ts#readFileSync#68293;</node>
+            <node x="" y="">http</node>
+            <node x="" y="">$PROJECT_DIR$/app/node_modules/pug/lib/index.js#__express#12034;</node>
+            <node x="" y="">$APPLICATION_CONFIG_DIR$/javascript/nodejs/10.15.3/node-typings/node_modules/@types/node/net.d.ts#isIP#11773;</node>
+            <node x="" y="">$APPLICATION_CONFIG_DIR$/javascript/nodejs/10.15.3/node-typings/node_modules/@types/node/path.d.ts#resolve#1959;</node>
+            <node x="" y="">querystring</node>
+            <node x="" y="">$APPLICATION_CONFIG_DIR$/javascript/nodejs/10.15.3/node-typings/node_modules/@types/node/stream.d.ts#Writable#5510;</node>
+            <node x="" y="">tty</node>
+            <node x="" y="">util</node>
+            <node x="" y="">uubench</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.2000000000000002" x="899.0" y="1944.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>Details</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/index.pug">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/routes/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1124">
+          <caret line="2" column="27" lean-forward="true" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/extList.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/routes/detector.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/public/javascripts/xh.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="116" column="1" selection-start-line="116" selection-start-column="1" selection-end-line="116" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/diffs/NightShift.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/routes/push.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="20" column="7" lean-forward="true" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

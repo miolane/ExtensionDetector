@@ -113,11 +113,9 @@ function compare(origin, changed)
     return changes;
 }
 
-function pushData(url, data)
+function pushData(url, diffs)
 {
-    data = JSON.stringify(data);
-
-    $.post(url, {"extensionName": extName, "data": data}).done(function (res) {
+    $.post(url, {"data": JSON.stringify({"ext": extName, "diffs": diffs})}).done(function (res) {
         console.log(res);
     })
 }
