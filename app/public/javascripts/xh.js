@@ -1,12 +1,23 @@
 var extName = document.title;
-window.onload = function() {
-    var URL = "/detect/" + extName;
+var URL = "/detect/";
+
+window.onload = sideway;
+
+function sideway() {
+    $.get(URL, {ext: extName}, function (html) {
+        var origin = parseDom(html);
+        var changes = compare(origin, document);
+        pushData('/push', changes);
+    })
+}
+
+function main() {
     getRawHTML(URL, function (origin) {
         var changes = compare(origin, document);
         console.log(changes);
-        pushData('/push', changes)
+        pushData('/push', changes);
     });
-};
+}
 
 
 function getRawHTML(url, callback)
@@ -24,6 +35,7 @@ function getRawHTML(url, callback)
 
     ajax.open('get', url, true);
     ajax.send(null);
+
 }
 
 

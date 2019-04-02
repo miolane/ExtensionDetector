@@ -6,7 +6,6 @@ router.post('/', function (req, res, next) {
     var data_ = req.body.data;
     data = JSON.parse(data_);
     var extName = data['ext'];
-    console.log(extName);
     var file = __dirname + '/../diffs/' +extName + '.json';
     fs.open(file, 'w+', function (err, fd) {
         if(err) return console.log(err);
