@@ -45,5 +45,5 @@ if __name__ == '__main__':
     dict = json.loads(json_str)
     tags = dict["tags"]
     for tag in tags:
-        fp.write("    " + tag + "\n")
+        fp.write(tag)
     

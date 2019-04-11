@@ -53,6 +53,22 @@ def get_extension_charaters():
         characters["tags"] = tags
         fp.write(json.dumps(characters))
 
+def process_blanks(elements):
+    element_aligned = []
+    for element in elements:
+        lines = re.findall('(<.*?>)', element)
+        paragraph = ""
+        tab = "    "
+        for idx, line in enumerate(lines):
+            if idx < len(lines)/2:
+                line = tab*(idx+1) + line + "\n"
+            else:
+                line = tab*(len(lines) - idx) + line + "\n"
+            paragraph = paragraph + line
+        print(paragraph)
+        element_aligned.append(paragraph)
+    return element_aligned
+
 def get__extension_charaters_all_contents():
     fp = open("..\\data\\characters_all_contents\\characters_all_contents.json", "w")
     json_str = open("..\\DOM_changes.json", 'rb').read()
@@ -65,12 +81,10 @@ def get__extension_charaters_all_contents():
         modifies = []
         deletes = []
         for (url, ops) in urls.items():
-            if ops["add"] != "NULL":
-                adds.extend(ops["add"])
-            if ops["del"] != "NULL":
-                deletes.extend(ops["del"])
-            if ops["mod"] != "NULL":
-                modifies.extend(ops["mod"])
-        tags = tags + [element for element in (modifies + deletes)]
+
+                adds = adds + ops["add"]
+                deletes = deletes + ops["del"]
+                modifies = modifies + ops["mod"]
+        tags = tags + process_blanks(modifies + deletes)
     characters["tags"] = tags
     fp.write(json.dumps(characters))
