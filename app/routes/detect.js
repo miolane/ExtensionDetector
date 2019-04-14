@@ -2,9 +2,6 @@ var express = require('express');
 var router = express.Router();
 
 
-// router.get('/NightShift', function(req, res, next) {
-//   res.render('NightShift', { title: 'NightShift' });
-// });
 
 router.get('/', function (req, res) {
     var extName = "";

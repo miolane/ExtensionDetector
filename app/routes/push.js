@@ -4,20 +4,23 @@ var fs = require('fs');
 
 router.post('/', function (req, res, next) {
     var data_ = req.body.data;
-    data = JSON.parse(data_);
+    var data = JSON.parse(data_);
+    console.log(data['ext']);
     var extName = data['ext'];
-    var file = __dirname + '/../diffs/' +extName + '.json';
-    fs.open(file, 'w+', function (err, fd) {
-        if(err) return console.log(err);
-        else
-            fs.write(fd, data_, function (err) {
-                if (err) return console.log(err);
-                else
-                    fs.close(fd, function (err) {
-                        if (err) console.log(err);
-                    });
-            });
+    var file = __dirname + '/../diffs.json';
+    fs.readFile(file, 'utf-8', function (err, content) {
+        var file_t = file;
+        if(err)
+            console.error(err);
+        var json = JSON.parse(content);
+        json[extName] = data.diffs;
+        fs.writeFile(file_t, JSON.stringify(json, null, '\t'), function (err) {
+            if(err)
+                console.error(err);
+        })
+
     });
+
 
     res.send('Received');
 });

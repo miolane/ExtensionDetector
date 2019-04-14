@@ -1,0 +1,109 @@
+{
+	"djcfdncoelnlbldjfhinnjlhdjlikmph.crx": [
+		{
+			"parent": "HEAD",
+			"node": "<style id=\"hc_style\" type=\"text/css\">html[hc=\"a0\"] {   -webkit-filter: url(\"http://127.0.0.1:3000/de",
+			"change": "addNode"
+		},
+		{
+			"parent": "BODY",
+			"node": "<div id=\"hc_extension_bkgnd\" style=\"position: fixed; left: 0px; top: 0px; right: 0px; bottom: 0px; z",
+			"change": "addNode"
+		},
+		{
+			"parent": "BODY",
+			"node": "<span id=\"hc_extension_svg_filters\" hidden=\"\"><svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\">",
+			"change": "addNode"
+		}
+	],
+	"eofcbnmajmjmplflapaojjnihcjkigck.crx": [
+		{
+			"parent": "HEAD",
+			"node": "<link id=\"avast_os_ext_custom_font\" href=\"chrome-extension://eofcbnmajmjmplflapaojjnihcjkigck/common",
+			"change": "addNode"
+		}
+	],
+	"extension_2_36_0_0.crx": [],
+	"extension_2_5_6_0.crx": [],
+	"extension_4_7_10_0.crx": [
+		{
+			"parent": "HEAD",
+			"node": "<style class=\"darkreader darkreader--text\" media=\"screen\"></style>",
+			"change": "addNode"
+		},
+		{
+			"parent": "HEAD",
+			"node": "<style class=\"darkreader darkreader--invert\" media=\"screen\"></style>",
+			"change": "addNode"
+		},
+		{
+			"parent": "HEAD",
+			"node": "<style class=\"darkreader darkreader--inline\" media=\"screen\">[data-darkreader-inline-bgcolor] {\n  bac",
+			"change": "addNode"
+		},
+		{
+			"parent": "HEAD",
+			"node": "<style class=\"darkreader darkreader--user-agent\" media=\"screen\">html {\n    background-color: #181a1b",
+			"change": "addNode"
+		},
+		{
+			"parent": "HEAD",
+			"node": "<style class=\"darkreader darkreader--sync\" media=\"screen\"></style>",
+			"change": "addNode"
+		},
+		{
+			"parent": "HEAD",
+			"node": "<style class=\"darkreader darkreader--override\" media=\"screen\">.jfk-bubble {\n    background-color: #0",
+			"change": "addNode"
+		},
+		{
+			"parent": "svg",
+			"node": "<circle fill=\"#FFF\" cx=\"18\" cy=\"10\" r=\"1\"></circle>",
+			"change": "modifyContent"
+		}
+	],
+	"ifajfiofeifbbhbionejdliodenmecna.crx": [
+		{
+			"parent": "HTML",
+			"node": "<div id=\"dexControlsContainer\"><div id=\"dexControlsContainerDragSurface\"></div><div id=\"dexControlsC",
+			"change": "addNode"
+		},
+		{
+			"parent": "HTML",
+			"node": "<div id=\"dexControlsContainerMeasurement\"><div id=\"dexControlsContainerMeasurementDiv\"></div></div>",
+			"change": "addNode"
+		},
+		{
+			"parent": "HTML",
+			"node": "<div id=\"__DJI_CWE_SHORTCUTS\" style=\"display: block; position: fixed; top: -5000px; left: -5000px;\">",
+			"change": "addNode"
+		}
+	],
+	"lifbcibllhkdhoafpjfnlhfpfgnpldfl.crx": [
+		{
+			"parent": "HEAD",
+			"node": "<style type=\"text/css\">.backpack.dropzone {\n  font-family: 'SF UI Display', 'Segoe UI';\n  font-size:",
+			"change": "addNode"
+		}
+	],
+	"Night-Shift_v1.2.crx": [
+		{
+			"parent": "HTML",
+			"node": "<div id=\"screen-shader\" style=\"            transition: opacity 0.1s ease 0s;             z-index: 21",
+			"change": "addNode"
+		}
+	],
+	"nonjdcjchghhkdoolnlbekcfllmednbl.crx": [
+		{},
+		{
+			"parent": "DIV",
+			"node": "<a class=\"js-navigation-open\" title=\"logo.svg\" id=\"c4b0d0e25e021c8acdd4f5d686ce68ea-67d118e54f63ed3f",
+			"change": "delNode"
+		},
+		{
+			"parent": "DIV",
+			"node": "<a class=\"js-navigation-open hoverZoomLink\" title=\"logo.svg\" id=\"c4b0d0e25e021c8acdd4f5d686ce68ea-67",
+			"change": "addNode"
+		}
+	]
+}

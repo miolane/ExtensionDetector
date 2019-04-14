@@ -59,8 +59,8 @@ function parseChange(node, changeType)
         p = null;
     }
     return {
-        "parent": {"tag": p ? p.tagName: "", "id": p ? p.id : "", "class": p ? p.className: ""},
-        "node": {"tag": node.tagName, "id": node.id, "class": node.className},
+        "parent": p ? p.tagName: "",
+        "node": node.outerHTML.substr(0, 100),
         "change": changeType
     };
 }
@@ -70,7 +70,7 @@ function compare(origin, changed)
 {
     function eq(a, b)
     {
-        return (a.tagName === b.tagName) && (a.className === b.className) && (a.id === b.id);
+        return (a.tagName.toString() === b.tagName.toString()) && (a.className.toString() === b.className.toString()) && (a.id.toString() === b.id.toString());
     }
 
     var changes = [];
@@ -104,7 +104,7 @@ function compare(origin, changed)
                         stack_shadow.push(nodej);
                     } else
                     {
-                        if(nodei.innerText !== nodej.innerText)
+                        if(nodei.outerHTML !== nodej.outerHTML)
                         {
                             changes.push(parseChange(nodei, "modifyContent"));
                         }
@@ -128,6 +128,7 @@ function compare(origin, changed)
 function pushData(url, diffs)
 {
     $.post(url, {"data": JSON.stringify({"ext": extName, "diffs": diffs})}).done(function (res) {
+        console.log(JSON.stringify({"ext": extName, "diffs": diffs}, null, "\t"));
         console.log(res);
     })
 }
